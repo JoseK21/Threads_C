@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 
-#include "code.h"
+#include "constants.h"
 
 pthread_t tid[3];
 pthread_t tid_example_1[3];
